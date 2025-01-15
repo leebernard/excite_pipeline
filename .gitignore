@@ -1,0 +1,4 @@
+# fits files are commonly too large, ignore them
+*.fits
+# temporary files #
+.ipynb_checkpoints
